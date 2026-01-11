@@ -55,14 +55,7 @@ I enjoy building impactful projects that combine intelligent systems, clean back
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9BF0?style=for-the-badge)
 
-<hr>
-
-<h2>📌 Featured Projects</h2>
-
-- 🔹 **FitHub Gym** – AI-powered gym management system with OpenCV-based workout analysis  
-- 🔹 **Crypto Trading Bot** – Automated Binance Futures trading bot using Django & REST APIs  
-- 🔹 **AutoDocs** – Agentic AI system for automating college & government documentation  
-- 🔹 **AI Resume Analyzer** – NLP-based resume screening and job-match scoring platform  
+<hr>  
 
 <hr>
 
