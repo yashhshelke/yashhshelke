@@ -28,10 +28,7 @@ design, with a long-term goal of contributing to impactful AI-powered platforms.
 <h2>📌 Featured Projects</h2>
 
 - **FitHub Gym Management System** – AI-enabled gym management platform with OpenCV-based workout tracking and analytics  
-- **Crypto Trading Bot** – Automated trading system built with Django REST Framework and Binance Futures integration  
 - **AutoDocs** – Agentic AI solution that automates academic and government documentation workflows  
-- **AI Resume Analyzer** – Machine learning-based resume screening system with job relevance scoring  
-
 <hr>
 
 <h2>🛠 Tech Stack</h2>
@@ -48,7 +45,6 @@ design, with a long-term goal of contributing to impactful AI-powered platforms.
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
 <h3>AI & Data</h3>
 
@@ -58,8 +54,6 @@ design, with a long-term goal of contributing to impactful AI-powered platforms.
 <h3>Tools & Deployment</h3>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9BF0?style=for-the-badge)
 
 <hr>
