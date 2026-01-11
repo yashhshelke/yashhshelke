@@ -2,15 +2,15 @@
 <h3 align="center">AI-Focused Full Stack Developer | Python & Django | Applied Machine Learning</h3>
 
 <p align="center">
-I am pursuing a strong technical foundation in computing while actively specializing in 
+I am building a strong technical foundation in computing while actively specializing in
 artificial intelligence, backend engineering, and scalable web applications.<br>
-My primary focus is building real-world solutions where machine learning meets 
-robust system design and clean, maintainable architecture.
+My primary interest lies in developing real-world systems where machine learning integrates
+with robust backend architecture and clean, maintainable codebases.
 </p>
 
 <p align="center">
-I enjoy working on projects that demand problem-solving, automation, and performance-driven design,
-with a long-term goal of contributing to impactful AI-powered platforms.
+I enjoy solving complex problems through automation, data-driven logic, and performance-oriented
+design, with a long-term goal of contributing to impactful AI-powered platforms.
 </p>
 
 <hr>
@@ -22,6 +22,15 @@ with a long-term goal of contributing to impactful AI-powered platforms.
 - RESTful API design and system architecture  
 - Full stack development with modern frontend frameworks  
 - Automation, data processing, and intelligent decision systems  
+
+<hr>
+
+<h2>📌 Featured Projects</h2>
+
+- **FitHub Gym Management System** – AI-enabled gym management platform with OpenCV-based workout tracking and analytics  
+- **Crypto Trading Bot** – Automated trading system built with Django REST Framework and Binance Futures integration  
+- **AutoDocs** – Agentic AI solution that automates academic and government documentation workflows  
+- **AI Resume Analyzer** – Machine learning-based resume screening system with job relevance scoring  
 
 <hr>
 
@@ -39,29 +48,38 @@ with a long-term goal of contributing to impactful AI-powered platforms.
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
 <h3>AI & Data</h3>
 
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+
 <h3>Tools & Deployment</h3>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9BF0?style=for-the-badge)
 
 <hr>
 
+<h2>🚧 Currently Working On</h2>
+
+- AI-driven automation tools  
+- Backend-heavy Django applications  
+- Improving ML model integration and deployment workflows  
 
 <hr>
 
 <h2>📈 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashhshelke&show_icons=true&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashhshelke&theme=dark"/>
 </p>
 
 <hr>
@@ -69,10 +87,10 @@ with a long-term goal of contributing to impactful AI-powered platforms.
 <h2>🤝 Connect With Me</h2>
 
 <p>
-<a href="[https://www.linkedin.com/in/YOUR_LINK/](https://www.linkedin.com/in/yash-shelke-45014837b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+<a href="https://www.linkedin.com/in/yash-shelke-45014837b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="yashshelke276@gmail.com">
+<a href="mailto:yashshelke276@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -80,5 +98,5 @@ with a long-term goal of contributing to impactful AI-powered platforms.
 <hr>
 
 <p align="center">
-Building intelligent systems • Writing scalable code • Solving real-world problems
+Building intelligent systems • Writing scalable backend code • Solving real-world problems
 </p>
