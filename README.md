@@ -78,7 +78,7 @@ s
 
 <hr>
 
-<h2>🤝 Connect With Me</h2>
+<h2>🤝Connect With Me</h2>
 
 <p>
 <a href="https://www.linkedin.com/in/yash-shelke-45014837b" target="_blank">
