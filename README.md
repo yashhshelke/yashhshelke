@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Yash</h1>
 <h3 align="center">AI-Focused Full Stack Developer | Python & Django | Applied Machine Learning</h3>
 
-
 <p align="center">
 I am building a strong technical foundation in computing while actively specializing in
 artificial intelligence, backend engineering, and scalable web applications.<br>
@@ -67,7 +66,7 @@ s
 
 <hr>
 
-<h2>📈 GitHub Activity</h2>
+<h2>📈GitHub Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashhshelke&show_icons=true&theme=dark"/>
