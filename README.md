@@ -19,7 +19,7 @@ design, with a long-term goal of contributing to impactful AI-powered platforms.
 
 - Artificial Intelligence & Machine Learning applications  
 - Backend development using Python & Django  
-- RESTful API design and system architecture  
+- RESTful APIdesign and system architecture  
 - Full stack development with modern frontend frameworks  
 s  
 
