@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Yash</h1>
+<h1 align="center">👋 Hi,I'm Yash</h1>
 <h3 align="center">AI-Focused Full Stack Developer | Python & Django| Applied Machine Learning</h3>
 
 <p align="center">
