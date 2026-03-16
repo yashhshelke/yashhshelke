@@ -8,6 +8,8 @@ My primary interest lies in developing real-world systems where machine learning
 with robust backend architecture and clean, maintainable codebases.
 </p>
 
+
+
 <p align="center">
 I enjoy solving complex problems through automation, data-driven logic, and performance-oriented
 design, with a long-term goalof contributing to impactful AI-powered platforms.
