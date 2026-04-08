@@ -98,16 +98,3 @@ s
 <p align="center">
 Building intelligent systems • Writing scalable backend code • Solving real-world problems
 </p>
-<h2>📈 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashhshelke&show_icons=true&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashhshelke&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashhshelke&theme=react-dark&hide_border=true&area=true"/>
-</p>
