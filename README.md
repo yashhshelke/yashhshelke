@@ -68,17 +68,15 @@ s
 
 <hr>
 
-<h2>📈GitHub Activity</h2>
+<h2>📈 GitHub Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashhshelke&show_icons=true&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashhshelke&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=yashhshelke&theme=dark"/>
 </p>
-
-<hr>
 
 <h2>🤝Connect With Me</h2>
 
