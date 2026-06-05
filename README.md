@@ -1,21 +1,12 @@
-<h1 align="center">👋 Hi,I'm Yash</h1>
-<h3 align="center">AI-Focused Full Stack Developer | Python & Django | Applied Machine Learning</h3>
+<h1 align="center">👋 Hi, I'm Yash</h1>
+
+<h3 align="center">
+AI Engineer | Full Stack Developer | Problem Solver
+</h3>
 
 <p align="center">
-I am building a strong technical foundation in computing while actively specializing in
-artificial intelligence, backend engineering, and scalable web applications.<br>
-My primary interest lies in developing real-world systems where machine learning integrates
-with robust backend architecture and clean, maintainable codebases.
+Focused on building intelligent products that combine machine learning, automation, and scalable software engineering.
 </p>
-
-
-
-<p align="center">
-I enjoy solving complex problems through automation, data-driven logic, and performance-oriented
-design, with a long-term goalof contributing to impactful AI-powered platforms.
-</p>
-
-<hr>
 
 <h2>📌 Core Focus Areas</h2>
 
