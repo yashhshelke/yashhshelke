@@ -1,76 +1,89 @@
 <h1 align="center">👋 Hi, I'm Yash</h1>
 
 <h3 align="center">
-AI Engineer | Full Stack Developer | Problem Solver
+AI Engineer • Full Stack Developer • Backend Enthusiast
 </h3>
 
 <p align="center">
-Focused on building intelligent products that combine machine learning, automation, and scalable software engineering.
+Building AI-powered applications, scalable backend systems, and automation tools with Python, Django, and Machine Learning.
 </p>
 
-<h2>📌 Core Focus Areas</h2>
+---
 
-- Artificial Intelligence & Machine Learning applications  
-- Backend development using Python & Django  
-- RESTful APIdesign and system architecture  
-- Full stack development with modern frontend frameworks  
-s  
+## 🚀 About Me
 
-<hr>
+* 🤖 Passionate about Artificial Intelligence and Applied Machine Learning
+* ⚙️ Building scalable backend systems using Python & Django
+* 🌐 Developing full-stack applications with modern web technologies
+* 📈 Focused on solving real-world problems through automation and intelligent software
 
-<h2>📌 Featured Projects</h2>
+---
 
-- **FitHub Gym Management System** – AI-enabled gym management platform with OpenCV-based workout tracking and analytics  
-- **AutoDocs** – Agentic AI solution that automates academic and government documentation workflows  
-<hr>
+## 🔥 Featured Projects
 
-<h2>🛠 Tech Stack</h2>
+### 🏋️ FitHub
 
-<h3>Programming & Frameworks</h3>
+AI-powered gym management platform with OpenCV-based workout tracking, analytics, and performance insights.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+### 📄 AutoDocs
+
+Agentic AI solution that automates academic and government documentation workflows.
+
+### 🛡️ SafeHer AI
+
+AI-driven safety platform focused on real-time monitoring and intelligent assistance.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
 ![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 
-<h3>Databases</h3>
+### Databases
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite)
 
-<h3>AI & Data</h3>
+### AI & Data
 
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 
-<h3>Tools & Deployment</h3>
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9BF0?style=for-the-badge)
 
-<hr>
+---
 
-<h2>🚧 Currently Working On</h2>
-
-- AI-driven automation tools  
-- Backend-heavy Django applications  
-- Improving ML model integration and deployment workflows  
-
-<hr>
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashhshelke&show_icons=true&theme=dark&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashhshelke&show_icons=true&theme=dark"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=yashhshelke&theme=dark"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashhshelke&theme=dark&cache_seconds=1800"/>
-</p>
+---
 
-<h2>🤝Connect With Me</h2>
+## 🎯 Currently Exploring
 
-<p>
-<a href="https://www.linkedin.com/in/yash-shelke-45014837b" target="_blank">
+* AI Agents & Automation
+* Machine Learning Deployment
+* Backend Architecture & System Design
+* Production-Ready Django Applications
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/yash-shelke-45014837b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:yashshelke276@gmail.com">
@@ -78,8 +91,8 @@ s
 </a>
 </p>
 
-<hr>
+---
 
 <p align="center">
-Building intelligent systems • Writing scalable backend code • Solving real-world problems
+💡 Building intelligent systems • Scalable backends • Real-world impact
 </p>
