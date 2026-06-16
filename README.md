@@ -75,7 +75,6 @@ AI-driven safety platform focused on real-time monitoring and intelligent assist
 * Machine Learning Deployment
 * Backend Architecture & System Design
 * Production-Ready Django Applications
-
 ---
 
 ## 🤝 Connect With Me
