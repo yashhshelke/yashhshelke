@@ -2,7 +2,6 @@
 <h3 align="center">
 AI Engineer • Full Stack Developer • Backend Enthusiast
 </h3>
-
 <p align="center">
 Building AI-powered applications, scalable backend systems, and automation tools with Python, Django, and Machine Learning.
 </p>
