@@ -59,14 +59,12 @@ s
 
 <hr>
 
-<h2>📈 GitHub Activity</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashhshelke&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashhshelke&show_icons=true&theme=dark&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashhshelke&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=yashhshelke&theme=dark&cache_seconds=1800"/>
 </p>
 
 <h2>🤝Connect With Me</h2>
