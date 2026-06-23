@@ -6,7 +6,6 @@ AI Engineer • Full Stack Developer • Backend Enthusiast
 Building AI-powered applications, scalable backend systems, and automation tools with Python, Django, and Machine Learning.
 </p>
 ---
-
 ## 🚀 About Me
 
 * 🤖 Passionate about Artificial Intelligence and Applied Machine Learning
