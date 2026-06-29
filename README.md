@@ -85,6 +85,14 @@ Building AI-powered applications, scalable backend systems, and automation tools
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashhshelke/yashhshelke/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
 # 🚀 Currently Building
 
 * 🤖 AI Agents & Automation Tools
