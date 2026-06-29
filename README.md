@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">👋 Hi, I'm Yash</h1>
 
 <h3 align="center">
@@ -135,4 +135,3 @@ AI-powered personal finance assistant that analyzes spending habits and provides
 <p align="center">
 <i>Building intelligent software • Writing scalable backend systems • Turning ideas into impactful products 🚀</i>
 </p>
-```
