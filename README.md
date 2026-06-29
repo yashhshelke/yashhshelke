@@ -1,124 +1,139 @@
+# 👋 Hi, I'm Yash
 
-<h1 align="center">👋 Hi, I'm Yash</h1>
-
-<h3 align="center">
-AI Engineer • Full Stack Developer • Backend Enthusiast
-</h3>
+### AI Engineer • Full Stack Developer • Backend Enthusiast
 
 <p align="center">
 Building AI-powered applications, scalable backend systems, and automation tools with Python, Django, and Machine Learning.
 </p>
 
 <p align="center">
-  <a href="https://github.com/yashhshelke">
-    <img src="https://komarev.com/ghpvc/?username=yashhshelke&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/yashhshelke?tab=followers">
-    <img src="https://img.shields.io/github/followers/yashhshelke?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=yashhshelke&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/yashhshelke?label=Followers&style=for-the-badge&color=0891b2"/>
+  <img src="https://img.shields.io/github/stars/yashhshelke?affiliations=OWNER&style=for-the-badge&color=0891b2"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- ⚙️ Building scalable backend systems using Python & Django
-- 🌐 Developing modern full-stack web applications
-- 📈 Focused on solving real-world problems through automation
-- 💡 Always learning new technologies and system design concepts
-
----
-
-## 🔥 Featured Projects
-
-### 🏋️ FitHub
-AI-powered gym management platform with OpenCV-based workout tracking, analytics, and performance insights.
-
-### 📄 AutoDocs
-Agentic AI platform that automates academic and government documentation workflows.
-
-### 🛡️ SafeHer AI
-AI-driven safety platform focused on real-time monitoring and intelligent assistance.
-
-### 💰 FinGo
-AI-powered personal finance assistant that analyzes spending habits and provides intelligent financial insights.
+* 🤖 Passionate about Artificial Intelligence & Machine Learning
+* ⚙️ Building scalable backend systems using Python & Django
+* 🌐 Developing modern full-stack web applications
+* 💡 Creating products that solve real-world problems through automation
+* 📚 Continuously learning System Design, AI Agents and Cloud Technologies
 
 ---
 
-## 🛠️ Tech Stack
+# 🔥 Featured Projects
 
-### Languages & Frameworks
+| Project            | Description                                                      | Tech                          |
+| ------------------ | ---------------------------------------------------------------- | ----------------------------- |
+| 🛡️ **SafeHer AI** | AI-powered safety platform with real-time monitoring             | Python • ML • Computer Vision |
+| 💰 **FinGo**       | AI personal finance assistant with intelligent spending insights | Django • React • AI           |
+| 🏋️ **FitHub**     | Smart gym management system with OpenCV workout tracking         | Python • OpenCV               |
+| 📄 **AutoDocs**    | Agentic AI platform for document automation                      | Python • NLP                  |
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
-<img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c"/>
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,flask"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 </p>
 
-### AI & Data
+### Tools
 
 <p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
-<img src="https://img.shields.io/badge/PythonAnywhere-1D9BF0?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashhshelke&show_icons=true&theme=github_dark&rank_icon=github&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yashhshelke&theme=github-dark-blue"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashhshelke&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yashhshelke&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashhshelke&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhshelke&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhshelke&layout=compact&theme=github_dark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yashhshelke&theme=algolia&no-frame=true&margin-w=10&row=1"/>
 </p>
 
 ---
 
-## 🎯 Currently Exploring
+# 🐍 Contribution Snake
 
-- 🤖 AI Agents & Agentic Workflows
-- 🧠 Machine Learning Deployment
-- ⚡ Backend Architecture & System Design
-- 🚀 Production-Ready Django Applications
-- ☁️ Cloud & DevOps Fundamentals
+> **Enable this after setting up the GitHub Action.**
 
----
-
-## 🏆 GitHub Achievements
-
-- 🦈 Pull Shark *(In Progress)*
-- 🤠 YOLO *(Unlocked)*
-- 🚀 Continuously building open-source projects and improving developer workflows.
+<p align="center">
+<img src="https://raw.githubusercontent.com/yashhshelke/yashhshelke/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
-## 🤝 Connect With Me
+# 📈 Development Journey
+
+```text
+AI & ML           █████████████░░░ 85%
+
+Backend           ███████████████░ 92%
+
+Full Stack        █████████████░░░ 84%
+
+Problem Solving   ██████████████░░ 90%
+
+System Design     ███████████░░░░░ 72%
+
+DevOps            ████████░░░░░░░░ 55%
+```
+
+---
+
+# 🎯 Currently Exploring
+
+* 🤖 AI Agents & Agentic Workflows
+* 🧠 Machine Learning Deployment
+* ⚡ Backend Architecture
+* ☁️ Cloud & DevOps
+* 🚀 Production-Ready Django Applications
+
+---
+
+# 🏅 GitHub Achievements
+
+| Achievement    | Status         |
+| -------------- | -------------- |
+| 🤠 YOLO        | ✅ Unlocked     |
+| 🦈 Pull Shark  | ⏳ Processing   |
+| 🚀 Open Source | 🔄 In Progress |
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/yash-shelke-45014837b">
@@ -133,5 +148,8 @@ AI-powered personal finance assistant that analyzes spending habits and provides
 ---
 
 <p align="center">
-<i>Building intelligent software • Writing scalable backend systems • Turning ideas into impactful products 🚀</i>
+<i>"Turning ideas into intelligent software."</i>
+
+⭐ If you like my work, consider following my journey!
+
 </p>
