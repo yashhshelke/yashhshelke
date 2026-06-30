@@ -5,7 +5,6 @@
 <p align="center">
 Building AI-powered applications, scalable backend systems, and automation tools with Python, Django, and Machine Learning.
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashhshelke&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/yashhshelke?label=Followers&style=for-the-badge&color=0e75b6"/>
