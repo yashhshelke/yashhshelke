@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yash
 
-### AI Engineer • Full Stack Developer • Backend Enthusiast
+### AI Engineer • Full Stack Developer •Frontend Enthusiast
 
 <p align="center">
 Building AI-powered applications, scalable backend systems, and automation tools with Python, Django, and Machine Learning.
@@ -69,7 +69,6 @@ Building AI-powered applications, scalable backend systems, and automation tools
 # 📊 GitHub Analytics
 
 <p align="center">
-
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=yashhshelke&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
@@ -79,42 +78,24 @@ Building AI-powered applications, scalable backend systems, and automation tools
     height="170"
     src="https://streak-stats.demolab.com?user=yashhshelke&theme=dark&hide_border=true&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=39D353&stroke=30363D"
   />
-
 </p>
 
 <p align="center">
-
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhshelke&layout=compact&theme=github_dark&hide_border=true"
   />
-
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/yashhshelke/yashhshelke/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/yashhshelke/yashhshelke/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/yashhshelke/yashhshelke/output/github-contribution-grid-snake.svg"
-    />
-
-  </picture>
-
+  <img
+    src="https://raw.githubusercontent.com/yashhshelke/yashhshelke/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+  />
 </p>
 
 ---
