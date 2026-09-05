@@ -5,9 +5,7 @@
 <p align="center">
 Building AI-powered applications, scalable backend systems, and automation tools with Python, Django, and Machine Learning.
 </p>
-<p align="center">
- 
-</p>
+
 ---
 
 # 🚀 About Me
@@ -22,13 +20,13 @@ Building AI-powered applications, scalable backend systems, and automation tools
 
 # 🔥 Featured Projects
 
-| Project            | Description                                               | Stack                         |
+| Project | Description | Stack |
 | ------------------ | --------------------------------------------------------- | ----------------------------- |
-| 🛡️ **SafeHer AI** | AI-powered real-time safety platform                      | Python • ML • Computer Vision |
-| 💰 **FinGo**       | AI financial assistant with intelligent spending insights | Django • React • AI           |
-| 🏋️ **FitHub**     | Smart gym management system with OpenCV workout tracking  | Python • OpenCV               |
-| 📄 **AutoDocs**    | Agentic AI platform for document automation               | Python • NLP                  |
-| 🎙️ **VoxDesk**    | AI desktop voice assistant with speech recognition        | Python • Whisper • Edge TTS   |
+| 🛡️ **SafeHer AI** | AI-powered real-time safety platform | Python • ML • Computer Vision |
+| 💰 **FinGo** | AI financial assistant with intelligent spending insights | Django • React • AI |
+| 🏋️ **FitHub** | Smart gym management system with OpenCV workout tracking | Python • OpenCV |
+| 📄 **AutoDocs** | Agentic AI platform for document automation | Python • NLP |
+| 🎙️ **VoxDesk** | AI desktop voice assistant with speech recognition | Python • Whisper • Edge TTS |
 
 ---
 
@@ -73,7 +71,7 @@ Building AI-powered applications, scalable backend systems, and automation tools
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashhshelke&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yashhshelke&theme=github-dark-blue&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=yashhshelke&theme=dark&hide_border=true&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=39D353&stroke=30363D"/>
 </p>
 
 <p align="center">
