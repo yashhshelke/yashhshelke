@@ -69,21 +69,52 @@ Building AI-powered applications, scalable backend systems, and automation tools
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashhshelke&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-  <img height="170" src="https://streak-stats.demolab.com?user=yashhshelke&theme=dark&hide_border=true&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=39D353&stroke=30363D"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=yashhshelke&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+  />
+
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=yashhshelke&theme=dark&hide_border=true&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=39D353&stroke=30363D"
+  />
+
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhshelke&layout=compact&theme=github_dark&hide_border=true"/>
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhshelke&layout=compact&theme=github_dark&hide_border=true"
+  />
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashhshelke/yashhshelke/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/yashhshelke/yashhshelke/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/yashhshelke/yashhshelke/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/yashhshelke/yashhshelke/output/github-contribution-grid-snake.svg"
+    />
+
+  </picture>
+
 </p>
 
 ---
@@ -109,6 +140,7 @@ Building AI-powered applications, scalable backend systems, and automation tools
 # 📫 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/yash-shelke-45014837b">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -116,6 +148,7 @@ Building AI-powered applications, scalable backend systems, and automation tools
 <a href="mailto:yashshelke276@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
